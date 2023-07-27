@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationListener=\
+com.study.listener.MyPropertiesListener
+
+
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.study.configuration.CustomPropertySourceLocator
