@@ -1,0 +1,5 @@
+com\config\properties\MyEnvironmentRepository.class
+com\config\SpringConfigApplication.class
+com\config\properties\config\MyEnvironmentRepositoryAutoConfiguration.class
+com\config\properties\DTO\Worker.class
+com\config\properties\annotation\EnableMyEnvironment.class
