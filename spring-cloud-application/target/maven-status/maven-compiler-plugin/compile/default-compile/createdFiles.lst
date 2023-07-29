@@ -1,7 +1,0 @@
-com\study\configuration\CustomPropertySourceLocator.class
-com\study\configuration\MyHealthIndicatorAutoConfiguration.class
-com\study\listener\MyPropertiesListener.class
-com\study\SpringCloudApplication.class
-com\study\listener\MyPropertiesEvent.class
-com\study\controller\EnvController.class
-com\study\health\MyHealthIndicator.class
